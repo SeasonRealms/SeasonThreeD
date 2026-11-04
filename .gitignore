@@ -16,3 +16,4 @@
 # them out of the commit. Everything else under runtimes/ is tracked.
 /runtimes/win-x64/native/ggml-cuda.dll
 /runtimes/win-x64/native/ggml-vulkan.dll
+/bin/Release/net10.0-windows10.0.19041.0
